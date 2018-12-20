@@ -25,11 +25,11 @@ _Environment:_
 ## Docker images
 
 The following container images have been cached:
-* microsoft/aspnetcore-build:(sha256:9ecc7c5a8a7a11dca5f08c860165646cb30d084606360a3a72b9cbe447241c0c)
-* microsoft/aspnet:(sha256:ebbaf320b4dd0492079490fb83b3788925087987fde955cd5d4c32d82e9ce5f0)
-* microsoft/dotnet-framework:(sha256:11ebb3b67738ce1132a92b55d0558f11d7dd6bb8ccf44caf94d8e90516d36251)
-* microsoft/windowsservercore:(sha256:1abdafc502a7e0d18af4d844c6f88f0b225eb928619b79086e895b95ecc26fdc)
-* microsoft/nanoserver:(sha256:ba322999264cd8ecdfb3fcaec020c7a479ff63e6c4333d89d11d67ecbd96b2b3)
+* microsoft/aspnetcore-build@sha256:9ecc7c5a8a7a11dca5f08c860165646cb30d084606360a3a72b9cbe447241c0c
+* microsoft/aspnet@sha256:ebbaf320b4dd0492079490fb83b3788925087987fde955cd5d4c32d82e9ce5f0
+* microsoft/dotnet-framework@sha256:11ebb3b67738ce1132a92b55d0558f11d7dd6bb8ccf44caf94d8e90516d36251
+* microsoft/windowsservercore@sha256:1abdafc502a7e0d18af4d844c6f88f0b225eb928619b79086e895b95ecc26fdc
+* microsoft/nanoserver@sha256:ba322999264cd8ecdfb3fcaec020c7a479ff63e6c4333d89d11d67ecbd96b2b3
 
 ## Visual Studio 2017 Enterprise
 
